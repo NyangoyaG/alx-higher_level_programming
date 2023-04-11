@@ -1,16 +1,5 @@
-### 0x0A. Python - Inheritance
-#### Task 0. Lookup
-#### Task 1. My list
-#### Task 2. Exact same object
-#### Task 3. Same class or inherit from
-#### Task 4. Only sub class of
-#### Task 5. Geometry module
-#### Task 6. Improve Geometry
-#### Task 7. Integer validator
-#### Task 8. Rectangle
-#### Task 9. Full rectangle
-#### Task 10. Square #1
-#### Task 11. Square #2
-#### Task 12. My integer
-#### Task 13. Can I?
-
+### 0x0A-python-inheritance
+##### Task 0 Function that returns the list of available attributes and methods of an object
+##### Task 1 Class MyList that inherits from list
+##### Task 2 Function that returns True if the object is exactly an instance of the specified class ; otherwise False
+##### Task 3 ---n
