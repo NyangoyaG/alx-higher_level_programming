@@ -1,3 +1,3 @@
--- Listing all tables in a database
--- database name will be passed as argument of mysql command (in the following example: mysql is the name of the database)
+-- script 3
+-- script that lista all tables in a MySQL server
 SHOW TABLES;
