@@ -1,5 +1,4 @@
 #!/usr/bin/node
-#!/usr/bin/node
 const process = require('process');
 let times = parseInt(process.argv[2]);
 const message1 = 'Missing number of occurrences';
